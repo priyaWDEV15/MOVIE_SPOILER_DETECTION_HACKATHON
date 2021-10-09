@@ -19,6 +19,10 @@
 
 ## __IMAGES__
 
+### Front Page
+
+![image](https://user-images.githubusercontent.com/65504875/136656117-1f0336a8-1551-4b90-9b66-cf6881e2b338.png)
+
 ### Login Form
 
 ![image](https://user-images.githubusercontent.com/65504875/136652541-3639cfa2-3497-4f44-b39b-b9a5c269ea33.png)
@@ -26,6 +30,10 @@
 ### Logging In
 
 ![image](https://user-images.githubusercontent.com/65504875/136652591-8b6dc7c4-eba4-476b-a232-e1004d2c909d.png)
+
+### Dashboard
+
+![image](https://user-images.githubusercontent.com/65504875/136656128-d45a0700-6c89-4eb1-b19a-b5004b2a70e3.png)
 
 
 ### Signup Form
