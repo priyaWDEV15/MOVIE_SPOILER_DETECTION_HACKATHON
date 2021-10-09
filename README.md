@@ -33,4 +33,10 @@
 ![image](https://user-images.githubusercontent.com/65504875/136652618-4a50bb2d-cf6a-4443-92ca-9d8b8a7e2714.png)
 
 
+## __DEVELOPERS__
+- PRIYA KUMARI    - Machine Learning Model + Frontend
+- VARUN GUPTA     - Frontend
+- ARCHIT DHIMAN   - Backend
+- ABHISHEK SHARMA - Backend
+
 
