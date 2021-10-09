@@ -1,14 +1,10 @@
-import { Badge } from "@material-ui/core";
-import { Search, ShoppingCartOutlined } from "@material-ui/icons";
+import { Search } from "@material-ui/icons";
 import React from "react";
 import styled from "styled-components";
-import { Link,Route,BrowserRouter} from "react-router-dom";
-// import { mobile } from "../responsive";
 
 const Container = styled.div`
   height: 60px;
   background-color: teal;
- 
 `;
 
 const Wrapper = styled.div`
@@ -16,7 +12,6 @@ const Wrapper = styled.div`
   display: flex;
   align-items: center;
   justify-content: space-between;
-  
 `;
 
 const Left = styled.div`
@@ -73,7 +68,6 @@ const Navbar = () => {
     <Container>
       <Wrapper>
         <Left>
-          
           <SearchContainer>
             <Input placeholder="Search" />
             <Search style={{ color: "gray", fontSize: 16 }} />
@@ -83,9 +77,7 @@ const Navbar = () => {
           <Logo>LAMA.</Logo>
         </Center>
         <Right>
-          
           <MenuItem>
-           
           </MenuItem>
         </Right>
       </Wrapper>

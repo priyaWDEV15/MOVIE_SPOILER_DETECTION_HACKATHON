@@ -1,9 +1,8 @@
 import { Badge } from "@material-ui/core";
-import { Search, ShoppingCartOutlined } from "@material-ui/icons";
+import { Search } from "@material-ui/icons";
 import React from "react";
 import styled from "styled-components";
-import { Link,Route,BrowserRouter} from "react-router-dom";
-// import { mobile } from "../responsive";
+import { Link} from "react-router-dom";
 
 const Container = styled.div`
   height: 60px;
